@@ -90,11 +90,11 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 40%;
-  border: 3px solid white;
+  border: 4px solid white;
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.5) rotate(8deg);
 }
 .tag {
   background-color: #efefef;
